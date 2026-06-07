@@ -1,14 +1,14 @@
-# Shivansh Deshwal Portfolio
+# Vanshika Panwar Portfolio
 
 A modern and responsive personal portfolio website built using Next.js, TypeScript, and Tailwind CSS to showcase my projects, skills, certifications, education, and professional experience.
 
 ## Live Website
 
-🌐 Portfolio: https://portfolio-teal-delta-62.vercel.app
+🌐 Portfolio: https://portfolio-nine-sigma-7kqkdl1z08.vercel.app/
 
 ## About Me
 
-I am Shivansh Deshwal, a Data Science student passionate about Artificial Intelligence, Machine Learning, Data Analytics, Cloud Computing, and Software Development.
+I am Vanshika Panwar, a Data Science student passionate about Artificial Intelligence, Machine Learning, Data Analytics, Cloud Computing, and Software Development.
 
 I enjoy building intelligent solutions, exploring modern technologies, and developing projects that solve real-world problems.
 
@@ -52,11 +52,11 @@ This portfolio is deployed using Vercel and automatically updates whenever chang
 
 ## Contact
 
-LinkedIn: [www.linkedin.com/in/shivansh-deshwal](http://www.linkedin.com/in/shivansh-deshwal)
+LinkedIn: https://www.linkedin.com/in/vanshikapanwar28/
 
-GitHub: https://github.com/Shivansh-3010
+GitHub: https://github.com/vanshika2810
 
-Portfolio: https://portfolio-teal-delta-62.vercel.app
+Portfolio: https://portfolio-nine-sigma-7kqkdl1z08.vercel.app/
 
 ---
 
